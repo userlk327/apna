@@ -1,4 +1,4 @@
 # apna
 This is for educational purpose
 <br>
-author: aarogya
+author: aarogya (apna college)
